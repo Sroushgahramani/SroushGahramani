@@ -3,17 +3,11 @@
 <div>
   <h2>🙋 About Me :</h2>
   <p>
-    I have been programming for 3 years, and I’ve had a passion for it since childhood. In my final year of middle school, I had a teacher who taught programming. That was 
-    my first exposure to the world of coding, and it sparked my interest even more. After a few years, I got the opportunity to learn programming again from the same 
-    teacher, and this time I delved deeper into it. Now, alongside web design, I am learning AI specialties, and every day my passion for this field grows.
-    <br><br>
-    I work in the field of web design, with several years of experience in building a variety of websites. My focus is on creating websites that are not only visually appealing but also optimized for performance and user experience. Currently, I am actively learning artificial intelligence to integrate cutting-edge technologies with web design, providing innovative and effective solutions for businesses. My expertise includes various programming languages, and I am always striving to learn and update my skills to offer the best services to my clients.
+I am a specialist in programming and web design, combining digital marketing skills and AI services to deliver innovative and effective solutions for businesses. With expertise in the latest technologies and tools, I design user-friendly, responsive, and search engine-optimized websites. Additionally, using advanced digital marketing strategies and AI capabilities, I help my clients enhance their online presence and achieve their business goals. From data analysis to marketing automation, I leverage artificial intelligence to create smart and efficient solutions.
   </p>
   <br>
   <p>
-    من ۳ سال است که برنامه‌نویسی کار می‌کنم و این علاقه را از کودکی در خودم حس می‌کردم. در سال آخر راهنمایی بود که معلمی داشتم که برنامه‌نویسی تدریس می‌کرد. این اولین بار بود که با دنیای کدنویسی آشنا شدم و علاقه‌ام به آن بیشتر شد. بعد از چند سال، دوباره همان معلم به من برنامه‌نویسی را آموزش داد و این‌بار با عمق بیشتری وارد این حوزه شدم. اکنون در کنار طراحی سایت، به یادگیری تخصص‌های هوش مصنوعی پرداخته‌ام و هر روز بیشتر به این حوزه علاقه‌مند می‌شوم.
-    <br><br>
-    من در زمینه طراحی وب‌سایت فعالیت می‌کنم و تجربه‌ای چندین‌ساله در ساخت وب‌سایت‌های متنوع دارم. تمرکزم بر روی ایجاد سایت‌هایی است که هم از لحاظ ظاهری جذاب باشند و هم از لحاظ عملکردی بهینه و کاربرپسند. در حال حاضر، به‌صورت فعال در حال یادگیری هوش مصنوعی هستم تا بتوانم تکنولوژی‌های نوین را با طراحی وب تلفیق کرده و راهکارهای خلاقانه و مؤثری برای کسب‌وکارها ارائه دهم. تخصص من شامل زبان‌های برنامه‌نویسی مختلفی است و همیشه به‌دنبال یادگیری و به‌روزرسانی مهارت‌های خود هستم تا بتوانم بهترین خدمات را به مشتریانم ارائه کنم.
+من یک متخصص در زمینه برنامه‌نویسی و طراحی سایت هستم که با ترکیب مهارت‌های دیجیتال مارکتینگ و خدمات هوش مصنوعی، راه‌حل‌های نوآورانه و مؤثری برای کسب‌وکارها ارائه می‌دهم. با تسلط بر آخرین فناوری‌ها و ابزارهای روز، وب‌سایت‌هایی کاربرپسند، واکنش‌گرا و بهینه‌شده برای موتورهای جستجو طراحی می‌کنم. همچنین، با استفاده از استراتژی‌های پیشرفته دیجیتال مارکتینگ و قابلیت‌های هوش مصنوعی، به مشتریانم کمک می‌کنم تا حضور آنلاین خود را تقویت کرده و به اهداف تجاری خود برسند. از تحلیل داده‌ها تا اتوماسیون بازاریابی، من از هوش مصنوعی برای ایجاد راه‌حل‌های هوشمندانه و کارآمد استفاده می‌کنم.
 
   </p>
 </div>
